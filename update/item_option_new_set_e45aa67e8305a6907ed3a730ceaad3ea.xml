@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="item_option_new_set">
+    <item_option_new_set action="INSERT_OR_UPDATE">
+        <create_roles/>
+        <description>Requested by and requested for questions</description>
+        <display_title>false</display_title>
+        <internal_name>requested_by_requested_for_questions</internal_name>
+        <layout>normal</layout>
+        <name/>
+        <order>100</order>
+        <read_roles/>
+        <set_attributes/>
+        <sys_class_name>item_option_new_set</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-25 15:21:11</sys_created_on>
+        <sys_id>e45aa67e8305a6907ed3a730ceaad3ea</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Requested by &amp; requested for questions</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>item_option_new_set_e45aa67e8305a6907ed3a730ceaad3ea</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2025-04-25 17:07:06</sys_updated_on>
+        <title>Requested by &amp; requested for questions</title>
+        <type>one_to_one</type>
+        <version>4</version>
+        <write_roles/>
+    </item_option_new_set>
+</record_update>
